@@ -1,0 +1,7 @@
+{
+    "random.cannon": {"category": "neutral", "sounds": [{"name": "cannon", "stream": false}]},
+    "mob.kekgolem.growl": {"category": "neutral", "sounds": [{"name": "kekgolemgrowl", "stream": false}]},
+    "mob.kekgolem.death": {"category": "neutral", "sounds": [{"name": "kekgolemdeath", "stream": false}]},
+    "mob.scorpioid.say": {"category": "neutral", "sounds": [{"name": "scorpioid", "stream": false}]},
+    "mob.scorpioid.hurt": {"category": "neutral", "sounds": [{"name": "scorpioid_death", "stream": false}]}
+}

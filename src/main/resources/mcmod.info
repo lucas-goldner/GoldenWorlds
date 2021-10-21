@@ -1,0 +1,16 @@
+[
+{
+  "modid": "goldenworlds",
+  "name": "GoldenWorld Mod",
+  "description": "Made by the great and powerrrfullll boss GoldNerd.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GoldNerd"],
+  "credits": "GoldNerd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
